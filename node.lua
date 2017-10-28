@@ -5,7 +5,7 @@ gl.setup(1024, 768)
 local json = require "json"
 
 util.resource_loader{
-    "font.ttf";
+    "Sansation_Regular.ttf";
     "background.frag";
 }
 
